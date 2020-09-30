@@ -1,2 +1,3 @@
 *.gz
 .ipynb_checkpoints/*
+edan_api_key.json
